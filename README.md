@@ -2,7 +2,7 @@
 This mod contains the file needed to mute the background music in Majora's Mask 3D. It is 100% compatible with both Project Restoration and the Randomizer, as well as all different versions and regions of Majora's Mask 3D, and it does not require patching a rom file. 
 
 To install this mod on a 3DS console, put the JokerStreaming.bcsar file into /luma/titles/0004000000125500/romfs/sound/streaming. If the romfs, sound, and streaming folders don't exist, please create them. To install this mod on the Citra emulator, put the JokerStreaming.bcsar file into user\load\mods\0004000000125500\romfs\sound\streaming. If the romfs, sound, and streaming folders don't exist, please create them. 
-(Please note that the 0004000000125500 folder mentioned in the above example is for the USA 1.0 version of the game, so please be sure to put the .bcsar file into the correct folder for your version of MM3D.)
+(Note that the 0004000000125500 folder mentioned in the above example is for the USA 1.0 version of the game, so be sure to put the .bcsar file into the correct folder for your version of MM3D.)
 
 Mod Description:
 
