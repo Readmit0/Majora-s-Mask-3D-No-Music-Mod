@@ -1,5 +1,5 @@
 # Majora-s-Mask-3D-No-Music-Mod
-This mod contains the file needed to mute the background music in Majora's Mask 3D. It is 100% compatible with both Project Restoration and the Randomizer, as well as all different versions and regions of Majora's Mask 3D, and it does not require patching a rom file. It is advised to have both a USA and an EUR version of MM3D on your 3DS console, so that one can be used for Vanilla or Project Restoration and the other can be used for the Randomizer.
+This mod contains the files needed to mute the background music in Majora's Mask 3D. It is 100% compatible with both Project Restoration and the Randomizer, as well as all different versions and regions of Majora's Mask 3D, and it does not require patching a rom file. It is advised to have both a USA and an EUR version of MM3D on your 3DS console, so that one can be used for Vanilla or Project Restoration and the other can be used for the Randomizer.
 
 To install this mod on a 3DS console, put the romfs folder into /luma/titles/0004000000125500/. To install this mod on the Citra emulator, put the romfs folder into user\load\mods\0004000000125500\romfs. (Note that the 0004000000125500 folder mentioned in the above example is for the USA 1.0 version of the game, so be sure to put the .bcsar file into the correct folder for your version of MM3D.)
 
